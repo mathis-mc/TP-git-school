@@ -8,3 +8,8 @@ def farewell(name):
     print("Goodbye, " + name + "!")
 
 farewell("Alice")
+
+def ask():
+    print("How are you?")
+
+ask()
